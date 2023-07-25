@@ -3,7 +3,9 @@
     "command": [
       "sh",
       "-c",
-      "[ -d /home ] && cat backup.sql"
+      "id     calisan_adi                                       
+------ --------------------------------------------------
+    23 Furkan Aytekin "
     ]
   }
 
