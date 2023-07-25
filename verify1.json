@@ -1,0 +1,9 @@
+
+{
+    "command": [
+      "sh",
+      "-c",
+      "[ -d /home ] && cat backup.sql"
+    ]
+  }
+
