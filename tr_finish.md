@@ -1,5 +1,4 @@
-# Template 1 Tamamlandı
+# Günlük Problemler
   
-- Seviyeyi tamamladınız. 👏🏻
-- [**İsteğe Bağlı**]Bir sonraki seviyeye giriş yapmak için bölüm sonunda ulaştığınız şifreyi kullanacaksınız. Bu yüzden parolanızı kopyalamayı unutmayın.
+- Problemi tamamladınız. 👏🏻
 - Profil sayfasına dönmek ve oturumu kapatmak için sonlandır butonuna basınız.  
