@@ -1,11 +1,8 @@
-
 {
-    "command": [
+  "command": [
       "sh",
-      "-c",
-      "id     calisan_adi                                       
------- --------------------------------------------------
-    23 Furkan Aytekin "
-    ]
-  }
+      "-c",      
+      "Select * From calisanlar 2>&1 | tee output.txt  && cat /output.txt | grep -i 'Furkan Aytekin'> /dev/null 2>&1 || exit 1"
+  ]
+}
 
