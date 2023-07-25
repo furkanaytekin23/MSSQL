@@ -1,3 +1,3 @@
-# Template Level X 🚀
+# Daily Coding Problems 🚀
   
-- Click start button to enter level instruction.  
+- Click start button to enter scenario instruction.  
